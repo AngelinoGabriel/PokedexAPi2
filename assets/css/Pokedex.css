@@ -5,7 +5,6 @@
     padding: 0;
     list-style: none;
 }
-
 .normal {
     background-color: #a6a877;
 }
@@ -15,7 +14,7 @@
 }
 
 .fire {
-    background-color: #ee7f30;
+    background-color: #ee6808;
 }
 
 .water {
@@ -85,10 +84,11 @@
     padding: 1rem;
     border-radius: 1rem;
 }
+
 .pokemon img{
     Width: 229px;
     Height: 96px;
-    }
+ }
 
 .pokemon .number {
     color: #000;
@@ -109,6 +109,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    
 }
 
 .pokemon .detail .types {
